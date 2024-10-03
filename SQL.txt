@@ -1,0 +1,10 @@
+1. Copy bin path in c Mysql file
+2. cmd -- cd <paste path>
+3. mysqldump -u root -p <databasename> > "<path><filename.sql>" 
+
+
+
+
+
+1.create db
+2.source <pastefile>
